@@ -1,5 +1,8 @@
 ## (Use .py (python file) the jupiternotebook has a lot of exploration and redundant code)
 
+
+
+
 # Mental Health Stigma Data Analysis
 
 ## Overview
@@ -103,7 +106,3 @@ The analysis produces:
 - Response pattern statistics
 - Regression coefficients with confidence intervals
 - Tables and visualizations for reporting
-
-## License
-
-[MIT License](LICENSE)
