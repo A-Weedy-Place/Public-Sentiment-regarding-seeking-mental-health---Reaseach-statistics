@@ -1,0 +1,14 @@
+Characteristics,Medicine/Nursing,Engineering/IT,Arts/Humanities,p-value
+"Age in years, mean (SD)",21.7 ± 3.1,22.4 ± 2.8,23.1 ± 5.6,0.118
+Gender: Male,22 (22.7%),37 (62.7%),13 (30.2%),
+Gender: Female,75 (77.3%),22 (37.3%),30 (69.8%),0.000
+Living arrangement: Living with family,84 (86.6%),48 (81.4%),36 (83.7%),
+Living arrangement: Hostelite/ living with friends,13 (13.4%),11 (18.6%),7 (16.3%),0.675
+Marital status: Single/Divorced,89 (91.8%),57 (96.6%),39 (90.7%),
+Marital status: Married/Engaged,8 (8.2%),2 (3.4%),4 (9.3%),0.416 *
+Family system: Nuclear (one family),75 (77.3%),52 (88.1%),28 (65.1%),
+Family system: Extended family,22 (22.7%),7 (11.9%),15 (34.9%),0.021
+History of suicide in family: no,91 (93.8%),56 (94.9%),40 (93.0%),
+History of suicide in family: yes,6 (6.2%),3 (5.1%),3 (7.0%),0.921 *
+Depression: yes,45 (46.4%),18 (30.5%),27 (62.8%),
+Depression: no,52 (53.6%),41 (69.5%),16 (37.2%),0.005
